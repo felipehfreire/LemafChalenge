@@ -1,0 +1,11 @@
+E:\Projects\Felipe\Others\lemaf\LemafChalenge\LemafChalenge\bin\Debug\netcoreapp2.2\LemafChalenge.deps.json
+E:\Projects\Felipe\Others\lemaf\LemafChalenge\LemafChalenge\bin\Debug\netcoreapp2.2\LemafChalenge.runtimeconfig.json
+E:\Projects\Felipe\Others\lemaf\LemafChalenge\LemafChalenge\bin\Debug\netcoreapp2.2\LemafChalenge.runtimeconfig.dev.json
+E:\Projects\Felipe\Others\lemaf\LemafChalenge\LemafChalenge\bin\Debug\netcoreapp2.2\LemafChalenge.dll
+E:\Projects\Felipe\Others\lemaf\LemafChalenge\LemafChalenge\bin\Debug\netcoreapp2.2\LemafChalenge.pdb
+E:\Projects\Felipe\Others\lemaf\LemafChalenge\LemafChalenge\obj\Debug\netcoreapp2.2\LemafChalenge.csprojAssemblyReference.cache
+E:\Projects\Felipe\Others\lemaf\LemafChalenge\LemafChalenge\obj\Debug\netcoreapp2.2\LemafChalenge.csproj.CoreCompileInputs.cache
+E:\Projects\Felipe\Others\lemaf\LemafChalenge\LemafChalenge\obj\Debug\netcoreapp2.2\LemafChalenge.AssemblyInfoInputs.cache
+E:\Projects\Felipe\Others\lemaf\LemafChalenge\LemafChalenge\obj\Debug\netcoreapp2.2\LemafChalenge.AssemblyInfo.cs
+E:\Projects\Felipe\Others\lemaf\LemafChalenge\LemafChalenge\obj\Debug\netcoreapp2.2\LemafChalenge.dll
+E:\Projects\Felipe\Others\lemaf\LemafChalenge\LemafChalenge\obj\Debug\netcoreapp2.2\LemafChalenge.pdb
