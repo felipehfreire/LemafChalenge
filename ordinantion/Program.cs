@@ -14,7 +14,7 @@ namespace LemafChalenge
         public static void Main()
         {
 
-            Console.WriteLine("######## Avaliação Técnica Desenvolvedor .Net Sênior!");
+            Console.WriteLine("######## Busca binaria em um array infinito !");
             Console.WriteLine("######## Felipe Henrique Freire!");
             Console.WriteLine("######## Por favor informe uma palavra como argumento!");
             var palavraArgumento = Console.ReadLine();

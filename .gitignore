@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/OrdinationChalenge/v16
+/ordinantion/obj
+/ordinantion/bin/Debug/netcoreapp2.2
